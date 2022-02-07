@@ -1,4 +1,4 @@
 # TableroControl
 Tablero de Control - Indice de Vacunacion en Argentina - Analisis sobre el sistema vacunatorio en argentina
-link: https://app.powerbi.com/links/RxtcMd_ko9?ctid=1ad86374-09ae-40c1-8eef-662b207a93ff&pbi_source=linkShare
+link: https://drive.google.com/file/d/1fC-5H0YFZUn9Xc1u2FEg92gVE0jj8K_u/view?usp=sharing
 Los datos expuestos estan reducidos por el gran tamaño del archivo
